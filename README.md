@@ -1,4 +1,4 @@
-# L-T-S-L-Project
+# L&T S&L-Project
 IoT system to monitor ping and get data of Room's temperature and humidity
 
 Check project on th egiven website link.
